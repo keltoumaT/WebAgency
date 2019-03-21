@@ -2,7 +2,7 @@
 
 
 Il s'agit du premier projet qui doit être réalisé dans le cadre de la **formation** de développeur web junior d'OpenClassRooms. Outils utilisés: **HTML, CSS, Sublime**
-
+[Lien du projet](http://webagency.kelwebdev.com)
 # Les consignes pour réaliser le projet
 
 Vous venez d'être embauché(e) par une agence Web, la **WebAgency**, qui réalise des sites web pour différents clients.
