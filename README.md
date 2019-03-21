@@ -6,10 +6,10 @@ Outils utilisés: HTML, CSS, Sublime
 Les consignes : 
 
 Définir le contenu d'une page web à partir d'une maquette
-  1)L'ensemble du contenu défini par la maquette est présent
-  2)Le contenu texte est pertinent et grammaticalement correct
-  3)L'aspect visuel correspond à la maquette sur écran d'ordinateur
-  4)La maquette est adaptée de manière pertinente sur un terminal mobile
+  #1)L'ensemble du contenu défini par la maquette est présent
+  #2)Le contenu texte est pertinent et grammaticalement correct
+  #3)L'aspect visuel correspond à la maquette sur écran d'ordinateur
+  #4)La maquette est adaptée de manière pertinente sur un terminal mobile
   
 Coder la structure d'une page web en HTML
   1)La page HTML passe la validation w3c HTML sans erreur
